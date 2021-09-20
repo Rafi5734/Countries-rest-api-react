@@ -1,0 +1,10 @@
+/* */
+.country-details {
+    background-color: rgba(182, 179, 179, 0.486);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.country-details img {
+    margin-bottom: 10px;
+}
